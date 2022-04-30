@@ -1,34 +1,34 @@
 {
-  "metaTitle": "Glitch in Bio!",
-  "metaDescription": "My meta description.",
-  "name": "Glitch in Bio",
+  "metaTitle": "Roger Mullins | Developer",
+  "metaDescription": "Personal and professional links.",
+  "name": "Roger Mullins",
   "theme": "glitch",
-  "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
+  "avatarImage": "https://pbs.twimg.com/profile_images/986243459244855296/RVOn4owg_400x400.jpg",
   "links": [
     {
-      "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
+      "url": "https://rdmullins.glitch.me",
+      "text": "Programmer | Writer | Historian",
       "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
       "altText": "Glitch blue generative art"
     },
     {
       "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
+      "text": "View the source for this page! Check out the code to see how it's built.",
       "img": ""
     },
     {
-      "url": "https://www.glitch.com/",
-      "text": "Built by and on Glitch, the easiest way to build the web.",
+      "url": "https://pursuit-of-trivia.glitch.me/",
+      "text": "Pursuit of Trivia, my HTML/CSS/JS capstone project.",
       "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
+    "glitch": "https://glitch.com/@rogermullins.mba",
     "spotify": "",
     "substack": "",
-    "dev": "https://dev.to/glitch",
+    "dev": "https://dev.to/rdmullins",
     "facebook": "",
-    "github": "https://github.com/glitchdotcom",
+    "github": "https://github.com/rdmullins",
     "gitlab": "",
     "hashnode": "",
     "instagram": "",
